@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: Spotify-Hybrid-Recommendation-Engine
+Version: 0.0.1
+Author: Anand
+Requires-Dist: numpy
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: requires-dist
