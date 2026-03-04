@@ -1,4 +1,4 @@
-# Spotify Hybrid Recommendation Engine
+# SongSense
 
 ## Project Overview
 
